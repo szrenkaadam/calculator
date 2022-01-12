@@ -29,7 +29,7 @@ let eredmeny = 0
  document.getElementById("szam1").value=""
  document.getElementById("szam2").value=""
  document.getElementById("muvelet").value="+"
-
+ document.getElementById("szam1").focus()
 }
 
 document.getElementById("szam1").focus()
